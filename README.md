@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MalekK882
-- 👀 I’m interested in coding, football (soccer), and political sciences, social studies, and history.
+- 👀 I’m interested in coding, football (soccer), social studies, and reading.
 - 🌱 I’m currently learning more advanced Python skills.
-- 💞️ I’m looking to collaborate on Python games.
-- 📫 How to reach me: at Replit as @Malek882, on Discord as MalekK882#4664, and on eMail as malekkamal885@gmail.com
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me: at Replit as @Malek882, on Discord as Qassam#4664, and on eMail as malekkamal885@gmail.com
 
 <!---
 MalekK882/MalekK882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
